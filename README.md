@@ -7,4 +7,4 @@ The only dependency for compiling this is Nim. I used Nim v1.4.2, but any versio
 # Addind other levels.
 The level 20 graph is defined in the `initializeLevel20` proc. You can define other graphs by adding more cells and changind the adjacency lists to find solutions for other levels.
 
-It is guaranteed that the solutuin found has minimum lenght.
+It is guaranteed that the solution found has minimum lenght.
